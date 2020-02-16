@@ -12,3 +12,9 @@ I want to get knowledge and skills in Frontend and Backend development.
 - Git
 - HTML CSS
 - Java
+
+## Education
+- Belarusian State University of informatics and Radioelectronics \ The Faculty of Computer-Aided Design
+
+## Languages
+- English – A1+
